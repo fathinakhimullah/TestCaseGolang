@@ -1,10 +1,10 @@
 # TestCaseGolang
 
-Nama Kandidat : Fathin Akhimullah
-Posisi : Backend Developer
+Nama Kandidat : Fathin Akhimullah \n
+Posisi : Backend Developer	
 Penggunaan Service : 
 **GOLANG**
- - Route untuk registrasi user
+Route untuk registrasi user
  - router.POST("/register", registerUser) // Menambahkan data baru
 
   - Route untuk login user
